@@ -1,0 +1,8 @@
+{
+  "/api": {
+    "target": "https://api.nsone.net/v1/datasets",
+    "secure": false,
+    "changeOrigin": true,
+    "logLevel": "debug"
+  }
+}
